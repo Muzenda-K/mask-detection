@@ -4,11 +4,10 @@ This project implements a **real-time face mask detection system** using the **Y
 
 ## 🔍 Overview
 
-With the rise of public health concerns, ensuring proper mask usage has become critical. This project leverages the power of **YOLOv8**, a state-of-the-art real-time object detection framework, to detect and classify faces into three categories:
+With the rise of public health concerns, ensuring proper mask usage has become critical. This project leverages the power of **YOLOv8**, a state-of-the-art real-time object detection framework, to detect and classify faces into 2 categories:
 
 - With mask
 - Without mask
-- Mask worn incorrectly (e.g., below nose)
 
 The model is trained on a custom dataset and can be used for both image and video inference.
 
