@@ -2,22 +2,6 @@
 
 This project implements a **real-time face mask detection system** using the **YOLOv8 object detection model** developed by Ultralytics. The trained model can identify whether individuals in images or videos are wearing face masks properly, improperly, or not at all.
 
----
-
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Dataset](#dataset)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Inference](#inference)
-- [Results](#results)
-- [License](#license)
-
----
-
 ## 🔍 Overview
 
 With the rise of public health concerns, ensuring proper mask usage has become critical. This project leverages the power of **YOLOv8**, a state-of-the-art real-time object detection framework, to detect and classify faces into three categories:
